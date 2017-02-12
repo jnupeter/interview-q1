@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Main-Class: cai.peter.interview.q1.lambda.Main
